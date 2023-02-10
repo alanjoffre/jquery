@@ -1,2 +1,2 @@
 # Jquery
-Repositório com aprendizado e exercícios: Jquery
+- Repositório com: artigos, aprendizados, exercícios e projetos.
